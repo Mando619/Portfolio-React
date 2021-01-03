@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://mando619.github.io/react.js",
+  "homepage": ".",
   "private": true,
   "engines": {
     "node": ">=12"
