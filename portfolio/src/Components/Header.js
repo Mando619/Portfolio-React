@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <div>
             <div className="header_container">
-                <Link to="/react.js"><h2>{userData.name}</h2></Link>
+                <Link to="/"><h2>{userData.name}</h2></Link>
                 <nav>
                     <ul>
                         <li><Link to="/about">About</Link> </li>
