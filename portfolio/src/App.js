@@ -10,10 +10,10 @@ function App() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route path="/about">
+        <Route path="/About">
           <About></About>
         </Route>
-        <Route exact path="/" exact>
+        <Route path="/">
           <Starter></Starter>
         </Route>
       </Switch>
