@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react.js/static/css/main.25c223c7.chunk.css",
-    "main.js": "/react.js/static/js/main.5a5dc2b9.chunk.js",
-    "main.js.map": "/react.js/static/js/main.5a5dc2b9.chunk.js.map",
-    "runtime-main.js": "/react.js/static/js/runtime-main.04946b89.js",
-    "runtime-main.js.map": "/react.js/static/js/runtime-main.04946b89.js.map",
-    "static/js/2.8350ebc7.chunk.js": "/react.js/static/js/2.8350ebc7.chunk.js",
-    "static/js/2.8350ebc7.chunk.js.map": "/react.js/static/js/2.8350ebc7.chunk.js.map",
-    "static/js/3.a8eeed96.chunk.js": "/react.js/static/js/3.a8eeed96.chunk.js",
-    "static/js/3.a8eeed96.chunk.js.map": "/react.js/static/js/3.a8eeed96.chunk.js.map",
-    "index.html": "/react.js/index.html",
-    "static/css/main.25c223c7.chunk.css.map": "/react.js/static/css/main.25c223c7.chunk.css.map",
-    "static/js/2.8350ebc7.chunk.js.LICENSE.txt": "/react.js/static/js/2.8350ebc7.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/react.js/static/media/black.f2945d85.png"
+    "main.css": "/react.js/index.html/static/css/main.2215bebc.chunk.css",
+    "main.js": "/react.js/index.html/static/js/main.5a5dc2b9.chunk.js",
+    "main.js.map": "/react.js/index.html/static/js/main.5a5dc2b9.chunk.js.map",
+    "runtime-main.js": "/react.js/index.html/static/js/runtime-main.9d93a149.js",
+    "runtime-main.js.map": "/react.js/index.html/static/js/runtime-main.9d93a149.js.map",
+    "static/js/2.8350ebc7.chunk.js": "/react.js/index.html/static/js/2.8350ebc7.chunk.js",
+    "static/js/2.8350ebc7.chunk.js.map": "/react.js/index.html/static/js/2.8350ebc7.chunk.js.map",
+    "static/js/3.a8eeed96.chunk.js": "/react.js/index.html/static/js/3.a8eeed96.chunk.js",
+    "static/js/3.a8eeed96.chunk.js.map": "/react.js/index.html/static/js/3.a8eeed96.chunk.js.map",
+    "index.html": "/react.js/index.html/index.html",
+    "static/css/main.2215bebc.chunk.css.map": "/react.js/index.html/static/css/main.2215bebc.chunk.css.map",
+    "static/js/2.8350ebc7.chunk.js.LICENSE.txt": "/react.js/index.html/static/js/2.8350ebc7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react.js/index.html/static/media/black.f2945d85.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.04946b89.js",
+    "static/js/runtime-main.9d93a149.js",
     "static/js/2.8350ebc7.chunk.js",
-    "static/css/main.25c223c7.chunk.css",
+    "static/css/main.2215bebc.chunk.css",
     "static/js/main.5a5dc2b9.chunk.js"
   ]
 }
