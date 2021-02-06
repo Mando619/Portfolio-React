@@ -140,6 +140,16 @@ a {
   font-size: 1.7rem;
 }
 
+.btn-yellow {
+  font-size: 1.4vw;
+  background-color: black;
+  color: #F0F7EE !important;
+}
+
+.btn-yellow:hover {
+  background-color: grey;
+}
+
 /* Contact */
 
 .contact_container {
@@ -162,27 +172,29 @@ a {
   opacity: 0.4;
 }
 
-.contact_container .email_link {
+.contact_container .social_links {
   font-size: 2rem;
   color: white;
   position: relative;
   top:-4rem;
 }
 
-.contact_container ul {
-  list-style-type: none;
-}
-
 .contact_container li {
-  display: inline;
+  display:inline-flex;
   padding-right: 3rem;
 }
 
 .contact_container li a {
-  color: white;
+  color:yellow;
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 4rem;
 }
+
+.contact_container li a:hover {
+  background-color:grey;
+}
+
+
 
 
 /* About */
@@ -284,6 +296,11 @@ a {
 
 .projects_container .myWorks_container .title {
   font-size: 0.8rem;
+}
+
+ .links_container  {
+ color:black;
+ font-size: medium;
 }
 
 

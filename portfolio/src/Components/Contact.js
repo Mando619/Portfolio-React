@@ -1,6 +1,6 @@
 import React from 'react';
 import userData from './data';
-import { FaEnvelope, FaGithub, FaLinkedin, FaFacebook } from 'react-icons/fa';
+import { FaEnvelope, FaGithub, FaLinkedin } from 'react-icons/fa';
 
 
 
@@ -11,7 +11,7 @@ const Contact = () => {
         <div className="contact_container">
             <p>{userData.contactData}</p>
             <br></br>
-            <h2>For further inquiries, you can contact me @</h2>
+
             <div className="social_links">
                 <ul>
                     <li>
@@ -27,11 +27,6 @@ const Contact = () => {
                     <li>
                         <a href={userData.myLinks[1].url}>
                             <FaLinkedin></FaLinkedin>
-                        </a>
-                    </li>
-                    <li>
-                        <a href={userData.myLinks[2].url}>
-                            <FaFacebook></FaFacebook>
                         </a>
                     </li>
                 </ul>

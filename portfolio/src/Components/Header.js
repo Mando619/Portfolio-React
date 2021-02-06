@@ -9,10 +9,10 @@ const Header = () => {
                 <Link to="/"><h2>{userData.name}</h2></Link>
                 <nav>
                     <ul>
-                        <li><Link to="/about">About</Link> </li>
-                        <li> <a href={`mailto:${userData.myContact}`}>Contact</a></li>
+                        <li> <a href={`mailto:${userData.myContact}`}>Estrada.Mando7@gmail.com</a> </li>
                     </ul>
                 </nav>
+
             </div>
         </div>
     )
