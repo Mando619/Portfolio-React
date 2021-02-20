@@ -10,7 +10,7 @@ const userData = {
 
     backGroundImage: "images/black-white-background.jpg",
 
-    aboutMe: "Full Stack Web developer with extensive experience in customer service. A fast learner who possesses a strong analytical approach to problem solving. Applies interpersonal and communication skills in working with all levels of personnel. Embraces teamwork while achieving the drive and ability to work independently in deadline driven environments. Fluent in English and Spanish. Below are links to my projects and works I have completed.",
+    aboutMe: "Full Stack Web developer with extensive experience in customer service. A fast learner who possesses a strong analytical approach to problem solving. Applies interpersonal and communication skills in working with all levels of personnel. Embraces teamwork while possessing the drive and ability to work independently in deadline driven environments .Eager to exceed in the web field with a commending customer service background. Getting  maximum results with the intent of receiving returning clients or referrals. Fluent in English and Spanish.",
 
     projects: [
         {
