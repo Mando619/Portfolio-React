@@ -109,6 +109,13 @@ a {
   font-size: 2rem;
 }
 
+.skills_column {
+  display:relative;
+  padding-right: 3rem;
+  font-size: 4rem;
+  top: 0rem;
+}
+
 
 /* Work */
 .projects_container {

@@ -10,7 +10,6 @@ const About = () => {
             <Header name={userData.name} myContact={userData.myContact}></Header>
             <div className="about_container">
                 <h2>{userData.aboutMe}</h2>
-
             </div>
             <Contact></Contact>
         </div>
