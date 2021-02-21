@@ -140,7 +140,6 @@ a {
 .projects_container .myWorks_container img {
   height: 17rem;
   width: 17rem;
-  box-shadow:5px 5px 2.5px yellow;
 }
 
 .projects_container .myWorks_container .title {
